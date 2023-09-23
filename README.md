@@ -9,7 +9,7 @@
 
 - 📫 How to reach me **thepsych3@gmail.com**
 
-About Me
+<h3 align="center"> About Me </h3>
 
 In the vast realm of technological innovation, I am an ardent programmer, skilled in bringing algorithms to life. With a deep fascination for Machine Learning and Deep Learning, I find immense joy in creating systems that not only compute but also 'think' and 'learn'. The potential of Blockchain technology captivates me, as I envision a decentralized future where transparency and security are paramount.
 
