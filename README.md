@@ -9,6 +9,17 @@
 
 - 📫 How to reach me **thepsych3@gmail.com**
 
+About Me
+
+In the vast realm of technological innovation, I am an ardent programmer, skilled in bringing algorithms to life. With a deep fascination for Machine Learning and Deep Learning, I find immense joy in creating systems that not only compute but also 'think' and 'learn'. The potential of Blockchain technology captivates me, as I envision a decentralized future where transparency and security are paramount.
+
+But my pursuits aren't limited to just the digital sphere. Parallel to my technological endeavors, I am a theologian, seeking answers to life's profoundest questions, delving deep into the study of the divine and spiritual beliefs. This theological quest seamlessly intertwines with my philosophical inclinations. As a philosopher, I continually strive to understand the nature of reality, existence, and the intricate nuances of human consciousness.
+
+At the heart of all these pursuits, Python is my trusty tool. As a seasoned Python developer, I've harnessed its versatile capabilities to build intricate systems, unravel data intricacies, and explore the vastness of AI.
+
+In essence, I am a blend of logic and reflection, of code and contemplation. I stand at the crossroads of technology and philosophy, looking forward to a future that harmoniously blends the two.
+
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/sujithrex" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="sujithrex" height="30" width="40" /></a>
